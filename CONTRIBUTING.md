@@ -1,3 +1,7 @@
+<!---copy from line 4 till line 7--->
+```markdown
+#### Name: Pranzal Srivastava
+- GitHub: https://github.com/PranzalSrivastava/
 # Follow the below format to add your name:
 
 <!---copy from line 4 till line 7--->
